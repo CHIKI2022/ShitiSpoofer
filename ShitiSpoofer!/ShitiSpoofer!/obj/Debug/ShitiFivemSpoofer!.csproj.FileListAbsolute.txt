@@ -1,0 +1,16 @@
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\bin\Debug\ShitiFivemSpoofer!.exe.config
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\bin\Debug\ShitiFivemSpoofer!.exe
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\bin\Debug\ShitiFivemSpoofer!.pdb
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer!.csproj.AssemblyReference.cache
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer!.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer_.Properties.Resources.resources
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer!.csproj.GenerateResource.cache
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer!.csproj.CoreCompileInputs.cache
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer!.exe
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer!.pdb
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer_.Main.resources
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\bin\Debug\MetroFramework.Design.dll
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\bin\Debug\MetroFramework.dll
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer!.csproj.CopyComplete
+C:\Users\CHIKI\source\repos\ShitiFivemSpoofer!\ShitiFivemSpoofer!\obj\Debug\ShitiFivemSpoofer_.Form2.resources
